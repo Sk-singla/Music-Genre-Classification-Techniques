@@ -2,7 +2,7 @@
 Machine Learning and Deep learning techniques to Classify Music Genre
 
 ## Paper
-[Term Paper](https://github.com/Sk-singla/Music-Genre-Classification/blob/master/music%20genre%20classfication%20techniqueus.docx)
+[Term Paper](https://github.com/Sk-singla/Music-Genre-Classification/blob/master/A%20STUDY%20ON%20MUSIC%20GENRE%20CLASSIFICATION%20TECHNIQUES.pdf)
 
 ## Techniques Used
 - KNN
