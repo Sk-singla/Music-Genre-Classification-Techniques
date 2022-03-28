@@ -11,15 +11,15 @@ Machine Learning and Deep learning techniques to Classify Music Genre
 - Artificial Neural Networks
 - CNN
 
-Classifiers         | Accuracy | F-Score
-KNN                 | 0.68     | 0.7
-SVM                 | 0.66     | 0.67
-Logistic Regression **| 0.72     | 0.73**
-Naive Bayes         | 0.5     | @.51
-Decision Tree       | 0.45     | 0.45
-Random forest       | 0.63     | 0.64
-ANN                 **| 0.68     | 0.72**
-CNN                 | 0.33     | 0.35
+Classifiers         | Accuracy | F-Score <br/>
+KNN                 | 0.68     | 0.7 <br/>
+SVM                 | 0.66     | 0.67 <br/>
+Logistic Regression **| 0.72     | 0.73** <br/>
+Naive Bayes         | 0.5     | @.51 <br/>
+Decision Tree       | 0.45     | 0.45 <br/>
+Random forest       | 0.63     | 0.64 <br/>
+ANN                 **| 0.68     | 0.72** <br/>
+CNN                 | 0.33     | 0.35 <br/>
 
 ## Confusion Matrix for Top performing Model
 ![Confusion Matrix](https://user-images.githubusercontent.com/56650508/160326365-83dd3a32-385d-40a2-959f-de72f631e7e9.png)
