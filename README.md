@@ -1,6 +1,9 @@
 # Music-Genre-Classification
 Machine Learning and Deep learning techniques to Classify Music Genre
 
+## Paper
+[Term Paper](https://github.com/Sk-singla/Music-Genre-Classification/blob/master/music%20genre%20classfication%20techniqueus.docx)
+
 ## Techniques Used
 - KNN
 - Logistic Regression
@@ -11,15 +14,8 @@ Machine Learning and Deep learning techniques to Classify Music Genre
 - Artificial Neural Networks
 - CNN
 
-Classifiers         | Accuracy | F-Score <br/>
-KNN                 | 0.68     | 0.7 <br/>
-SVM                 | 0.66     | 0.67 <br/>
-Logistic Regression **| 0.72     | 0.73** <br/>
-Naive Bayes         | 0.5     | @.51 <br/>
-Decision Tree       | 0.45     | 0.45 <br/>
-Random forest       | 0.63     | 0.64 <br/>
-ANN                 **| 0.68     | 0.72** <br/>
-CNN                 | 0.33     | 0.35 <br/>
+## Performance
+![table](https://user-images.githubusercontent.com/56650508/160326622-cce1d6b6-63da-4eb3-b692-16a04db90079.jpg)
 
 ## Confusion Matrix for Top performing Model
 ![Confusion Matrix](https://user-images.githubusercontent.com/56650508/160326365-83dd3a32-385d-40a2-959f-de72f631e7e9.png)
