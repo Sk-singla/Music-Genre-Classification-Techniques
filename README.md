@@ -1,4 +1,4 @@
-# Music-Genre-Classification
+# Music-Genre-Classification-Techniques
 Machine Learning and Deep learning techniques to Classify Music Genre
 
 ## Paper
